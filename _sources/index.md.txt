@@ -2,6 +2,15 @@
 
 ![image home](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Norman_Doppler_Radar_-_NOAA.jpg/640px-Norman_Doppler_Radar_-_NOAA.jpg "Norman Weather Radar")
 
+## News
+
+```{postlist}
+:date: "%Y-%m-%d"
+:format: "{date} - {title}"
+:category: News
+:excerpts:
+```
+
 ## What is this about?
 
 - You don't want to pay license fees?
@@ -24,15 +33,6 @@ Have you developed a software for weather radar data processing? We invite you t
 ## Get more background...
 
 ...from our papers on [The Emergence of Open Source Software for the Weather Radar Community](https://doi.org/10.1175/BAMS-D-13-00240.1) and our [Open Virtual Machine for Cross-Platform Weather Radar Science](https://doi.org/10.1175/BAMS-D-14-00220.1).
-
-## News
-
-```{postlist}
-:date: "%Y-%m-%d"
-:format: "{date} - {title}"
-:category: News
-:excerpts:
-```
 
 ```{toctree}
 :maxdepth: 2
