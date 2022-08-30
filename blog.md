@@ -1,2 +1,2 @@
 # Blog
-This file will be replaced upon building
+This file will be replaced upon building.
