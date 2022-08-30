@@ -10,7 +10,7 @@
 ## Related projects (alphabetical order)
 * [ARM-PyArt](../posts/packages/arm-pyart.md)
 * [ARTView](../posts/packages/artview.md)
-* [BALTRAD]({../posts/packages/baltrad.md)
+* [BALTRAD](../posts/packages/baltrad.md)
 * [MMM-Py](../posts/packages/mmm-py.md)
 * [MultiDop](../posts/packages/multidop.md)
 * [Pyrad](../posts/packages/pyrad.md)
