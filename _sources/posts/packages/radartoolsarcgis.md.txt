@@ -4,7 +4,7 @@ date: 2017-09-16
 category: Projects
 authors: openradar
 tags: project, devel
-language: python
+language: Python
 ---
 
 # Radar Tools for ArcGIS 

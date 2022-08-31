@@ -13,7 +13,7 @@ language: Python
 
 [pysteps](https://pysteps.github.io/) is a community that develops and maintains an easy to use, modular and open source python framework for precipitation short-term ensemble prediction systems.
 
-![pysteps sample image]({filename}../images/pysteps_sample.png)
+![pysteps sample image](../images/pysteps_sample.png)
 
 ## Homepage
 

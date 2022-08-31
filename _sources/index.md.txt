@@ -24,7 +24,7 @@ If it's a **yes** to any of these questions, then have a closer look...
 
 ## Looking for software that suits your needs?
 
-You want to interact with your data, or to build applications? In research, operations, or in the private sector? Search the site in order to find solutions that suit your specific needs. Use the tags, the search tool bar, or see the [complete list of projects](projects.md).
+You want to interact with your data, or to build applications? In research, operations, or in the private sector? Search the site in order to find solutions that suit your specific needs. Use the tags, the search tool bar, or see the [complete list of projects](pages/projects.md).
 
 ## Providing a useful software product?
 
@@ -38,7 +38,8 @@ Have you developed a software for weather radar data processing? We invite you t
 :maxdepth: 2
 :hidden:
 pages/projects
-pages/opendata
 blog
+pages/workshops
+pages/opendata
 pages/community
 ```
