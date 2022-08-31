@@ -76,7 +76,7 @@ html_theme_options = {
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 html_sidebars = {
     "blog": [
@@ -116,7 +116,7 @@ myst_url_schemes = ['http', 'https', 'mailto']
 
 
 # Temporarily stored as off until we fix it
-jupyter_execute_notebooks = 'off'
+nb_execution_mode = 'off'
 
 
 comments_config = {
